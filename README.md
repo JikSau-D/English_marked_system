@@ -1,4 +1,4 @@
-# 大学英语作文打分评测助手 (University English Composition Grading & Evaluation Assistant)
+# 2026大学英语作文打分评测助手 (University English Composition Grading & Evaluation Assistant)
 
 一个可直接部署的全栈 Web 应用：上传作文图片 → OCR 识别 → 基于 CET-4/CET-6 评分标准给出结构化评分与改进建议。
 
